@@ -23,6 +23,6 @@ With the loan approved, Jao can focus on studying again.
 | | |
 |---|---|
 | **Made by** | Argiedan B. Salvo |
-| **Course / Subject** | _[add subject here]_ |
-| **Tools used** | _[e.g. CapCut, Premiere Pro]_ |
-| **Length** | _[3:05]_ |
+| **Course / Subject** | _Clean-up and In-between for IT_ |
+| **Tools used** | _flipaclip_ |
+| **Length** | _3:05_ |
